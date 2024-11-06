@@ -1,0 +1,42 @@
+# See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
+
+# Compiled output
+siderina-ng-app/dist
+siderina-ng-app/tmp
+siderina-ng-app/out-tsc
+siderina-ng-app/bazel-out
+
+# Node
+siderina-ng-app/node_modules
+siderina-ng-app/npm-debug.log
+siderina-ng-app/yarn-error.log
+
+# IDEs and editors
+siderina-ng-app/.idea/
+siderina-ng-app/.project
+siderina-ng-app/.classpath
+siderina-ng-app/.c9/
+siderina-ng-app/*.launch
+siderina-ng-app/.settings/
+siderina-ng-app/*.sublime-workspace
+
+# Visual Studio Code
+siderina-ng-app/.vscode/*
+siderina-ng-app/.vscode/settings.json
+siderina-ng-app/.vscode/tasks.json
+siderina-ng-app/.vscode/launch.json
+siderina-ng-app/.vscode/extensions.json
+siderina-ng-app/.history/*
+
+# Miscellaneous
+siderina-ng-app/.angular/cache
+siderina-ng-app/.sass-cache/
+siderina-ng-app/connect.lock
+siderina-ng-app/coverage
+siderina-ng-app/libpeerconnection.log
+siderina-ng-app/testem.log
+siderina-ng-app/typings
+
+# System files
+siderina-ng-app/.DS_Store
+siderina-ng-app/Thumbs.db
