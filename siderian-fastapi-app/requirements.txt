@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+pydantic 
+pyodbc
+mysql-connector-python
+apache-airflow
